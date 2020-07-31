@@ -1,0 +1,116 @@
+[
+    {
+        "id":1,
+        "customer":{
+            "name":"Essa Abouasali",
+            "address":"Bankstown 200",
+            "dob":{
+                "day":"01",
+                "month":"06",
+                "year":"1990"
+            },
+            "customerNumber": 17127482
+        },
+        "licence":{
+            "number":17127482,
+            "type":"Unrstricted",
+            "issueDate":{
+                "day":"01",
+                "month":"01",
+                "year":"2010"
+            },
+            "expiry":{
+                "day":"01",
+                "month":"01",
+                "year":"2021"
+            },
+            "demritPoints":"13"
+        }
+    },
+    {
+        "id":2,
+        "customer":{
+            "name":"Dani Abouasali",
+            "address":"Bankstown 200",
+            "dob":{
+                "day":"05",
+                "month":"03",
+                "year":"1993"
+            },
+            "customerNumber": 17127483
+        },
+        "licence":{
+            "number":17127483,
+            "type":"Unrstricted",
+            "issueDate":{
+                "day":"01",
+                "month":"01",
+                "year":"2012"
+            },
+            "expiry":{
+                "day":"05",
+                "month":"06",
+                "year":"2022"
+            },
+            "demritPoints":"10"
+        }
+    }
+    ,
+    {
+        "id":3,
+        "customer":{
+            "name":"David Welson",
+            "address":"Liverpool 211",
+            "dob":{
+                "day":"07",
+                "month":"03",
+                "year":"1989"
+            },
+            "customerNumber": 17135484
+        },
+        "licence":{
+            "number":17135484,
+            "type":"P2",
+            "issueDate":{
+                "day":"03",
+                "month":"08",
+                "year":"2009"
+            },
+            "expiry":{
+                "day":"01",
+                "month":"12",
+                "year":"2020"
+            },
+            "demritPoints":"7"
+        }
+    },
+    {
+        "id":4,
+        "customer":{
+            "name":"Henry Peka",
+            "address":"Marckville 522",
+            "dob":{
+                "day":"31",
+                "month":"04",
+                "year":"1998"
+            },
+            "customerNumber": 17572348
+        },
+        "licence":{
+            "number":17572348,
+            "type":"HR",
+            "issueDate":{
+                "day":"04",
+                "month":"09",
+                "year":"2005"
+            },
+            "expiry":{
+                "day":"01",
+                "month":"01",
+                "year":"2021"
+            },
+            "demritPoints":"13"
+        }
+
+    }
+]
